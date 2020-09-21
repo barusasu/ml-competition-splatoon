@@ -1,0 +1,6 @@
+context_path: ml_splatoon.run.ProjectContext
+project_name: "ml-splatoon"
+project_version: "0.16.5"
+package_name: "ml_splatoon"
+hooks:
+  - ml_splatoon.hooks.project_hooks
